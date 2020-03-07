@@ -1,0 +1,31 @@
+{
+  "name": "yenny_s_note",
+  "version": "1.0.0",
+  "description": "mandatory project for nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "cross-env PORT=80 node app.js",
+    "start-dev": "cross-env PORT=3000 nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YewonS/Nodejs_2020_mandatory.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "note"
+  ],
+  "author": "YewonSeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YewonS/Nodejs_2020_mandatory/issues"
+  },
+  "homepage": "https://github.com/YewonS/Nodejs_2020_mandatory#readme",
+  "dependencies": {
+    "cross-env": "^7.0.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
