@@ -1,0 +1,22 @@
+body {
+    margin-top: 90px;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: rgb(68, 77, 85);
+}
+
+#content {
+    font-size: 150%
+}
+
+h1 {
+   color: gold;
+}
+
+div {
+    color: white;
+}
+
+.card {
+    background-color: slategray;
+}
