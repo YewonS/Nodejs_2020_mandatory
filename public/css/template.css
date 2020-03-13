@@ -17,6 +17,18 @@ div {
     color: white;
 }
 
+.btn-link {
+    color: white;
+}
+
+.btn-link:hover {
+    color: pink;
+}
+
 .card {
     background-color: slategray;
+}
+
+.codeExample {
+    margin-bottom: 20px;
 }
