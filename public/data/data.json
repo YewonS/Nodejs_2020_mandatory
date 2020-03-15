@@ -1,0 +1,43 @@
+{
+    "topics": {
+        "nodejs" : {
+            "title": "Node.js",
+            "description": "An open-source, cross-platform, JavaScript runtime environment. Node.js helps developers write server-side scripting using JavaScript. It is asynchronous and event-driven.",
+            "code_example": "/image/npminstall.png",
+            "sub_topics": {
+                "npm": {
+                    "title": "npm",
+                    "description": "Node Package Manager is core of development system for Node.js. NPM consists of a command line and a database of packages. NPM also manages the packages that are both local project and public JavaScript tools.",
+                    "code_example": "/image/npmrun.png"
+                },
+                "express" : {
+                    "title": "Express.js",
+                    "description": "A free, open-source web application framework for Node.js. It is designed to build web applications and APIs. It is fast, unopinionated, and minimalist web framework.",
+                    "code_example": "/image/express.png"
+                },
+                "nodemon" : {
+                    "title": "nodemon",
+                    "description": "A tool that helps develop node.js based applications by automatically restarting the node application. Nodemon will monitor for any changes in source and automatically restart the server.",
+                    "code_example": "/image/nodemon.png"
+                }
+            }
+        },
+        "jquery" : {
+            "title": "jQuery",
+            "description": "A JavaScript library designed to simplify HTML DOM manipulation, including event handling, css animation, and Ajax. It is free, open-source software.",
+            "code_example": "/image/jquery.png"
+        },
+        "restapi" : {
+            "title": "REST API",
+            "description": "Representational State Transfer is a software architectural style that defines a set of constraints that can be used to create web services. RESTful Web services allow the requesting systems to access and manipulate textual representations of Web resources by using a uniform and predefined set of stateless operations.",
+            "code_example": "/image/get.png",
+            "sub_topics": {
+                "http_methods": {
+                    "title": "HTTP methods",
+                    "description": "GET method retrieves representation of the member resource. POST method creates a member resource. PUT method replaces the representation of member resource of the collection. DELETE method deletes representation of the member resource.",
+                    "code_example": "/image/post.png"
+                }
+            }
+        }
+    }
+}
