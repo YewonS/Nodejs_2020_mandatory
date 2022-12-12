@@ -25,7 +25,7 @@
   "homepage": "https://github.com/YewonS/Nodejs_2020_mandatory#readme",
   "dependencies": {
     "cross-env": "^7.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.2"
   }
 }
